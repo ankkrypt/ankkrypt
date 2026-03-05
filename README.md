@@ -83,8 +83,8 @@
 ## 📊 GitHub Intelligence
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ankkrypt&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankkrypt&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ankkrypt&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ankkrypt&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 </p>
 
 <p align="center">
@@ -113,7 +113,7 @@
 
 ## 🏆 Highlights
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ankkrypt&theme=algolia&no-bg=true&no-frame=true&margin-w=12&column=7" />
+  <img src="https://github-profile-trophy-alpha.vercel.app/?username=ankkrypt&theme=algolia&no-bg=true&no-frame=true&margin-w=12&column=7" />
 </p>
 
 ---
