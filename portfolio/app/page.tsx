@@ -1,6 +1,5 @@
 "use client";
 
-import Image from "next/image";
 import { useState } from "react";
 
 export default function Home() {
@@ -64,12 +63,12 @@ export default function Home() {
         <div className="max-w-6xl mx-auto px-6 py-3 flex justify-between items-center">
           {/* Logo with Profile Picture */}
           <a href="#" className="flex items-center gap-3 hover:opacity-80 transition-opacity">
-            <Image
+            <img
               src="/perfectlyCropped.jpg"
               alt="Ankit Dhotre"
               width={40}
               height={40}
-              className="rounded-full border-2 border-[#22d3ee]"
+              className="rounded-full border-2 border-[#22d3ee] w-10 h-10"
             />
             <span className="text-lg sm:text-xl font-bold text-[#22d3ee]">Ankit Dhotre</span>
           </a>
@@ -171,13 +170,10 @@ export default function Home() {
           <div className="flex justify-center">
             <div className="relative">
               <div className="absolute inset-0 bg-[#22d3ee]/20 rounded-full blur-3xl"></div>
-              <Image
+              <img
                 src="/perfectlyCropped.jpg"
                 alt="Ankit Dhotre"
-                width={400}
-                height={400}
-                className="relative rounded-full border-4 border-[#22d3ee] shadow-2xl shadow-[#22d3ee]/20"
-                priority
+                className="relative rounded-full border-4 border-[#22d3ee] shadow-2xl shadow-[#22d3ee]/20 w-96 h-96"
               />
             </div>
           </div>
