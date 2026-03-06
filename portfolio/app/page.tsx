@@ -152,7 +152,7 @@ export default function Home() {
             </p>
             <div className="flex gap-4 pt-4">
               <a
-                href="https://github.com/ankkrypt"
+                href="https://github.com/ankkrypt.png"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-6 py-3 bg-[#22d3ee] text-[#020617] font-semibold rounded-lg hover:bg-[#06b6d4] transition-all duration-200 hover:scale-105"
