@@ -171,7 +171,7 @@ export default function Home() {
             <div className="relative">
               <div className="absolute inset-0 bg-[#22d3ee]/20 rounded-full blur-3xl"></div>
               <img
-                src="/perfectlyCropped.jpg"
+                src="https://github.com/ankkrypt.png"
                 alt="Ankit Dhotre"
                 className="relative rounded-full border-4 border-[#22d3ee] shadow-2xl shadow-[#22d3ee]/20 w-96 h-96"
               />
