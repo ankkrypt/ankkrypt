@@ -64,7 +64,7 @@ export default function Home() {
           {/* Logo with Profile Picture */}
           <a href="#" className="flex items-center gap-3 hover:opacity-80 transition-opacity">
             <img
-              src="/perfectlyCropped.jpg"
+              src="https://github.com/ankkrypt.png"
               alt="Ankit Dhotre"
               width={40}
               height={40}
